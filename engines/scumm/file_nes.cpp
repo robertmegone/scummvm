@@ -918,6 +918,27 @@ const ScummNESFile::ResourceGroup res_preplist = {
 	}
 };
 
+static const ScummNESFile::Resource res_titles_usa[2] = { {0x02701, 0x0000}, {0x0324d, 0x0000} };
+static const ScummNESFile::Resource res_titles_eur[2] = { {0x02701, 0x0000}, {0x0320f, 0x0000} };
+static const ScummNESFile::Resource res_titles_swe[2] = { {0x02701, 0x0000}, {0x0320f, 0x0000} };
+static const ScummNESFile::Resource res_titles_fra[2] = { {0x02701, 0x0000}, {0x0320f, 0x0000} };
+static const ScummNESFile::Resource res_titles_ger[2] = { {0x02701, 0x0000}, {0x0320f, 0x0000} };
+static const ScummNESFile::Resource res_titles_esp[2] = { {0x02701, 0x0000}, {0x0320f, 0x0000} };
+static const ScummNESFile::Resource res_titles_ita[2] = { {0x02701, 0x0000}, {0x0320f, 0x0000} };
+
+const ScummNESFile::ResourceGroup res_titles = {
+    ScummNESFile::NES_TITLES,
+    {
+    res_titles_usa,
+    res_titles_eur,
+    res_titles_swe,
+    res_titles_fra,
+    res_titles_ger,
+    res_titles_esp,
+    res_titles_ita,
+    }
+};
+
 static uint16 write_byte(Common::WriteStream *out, byte val) {
 	val ^= 0xFF;
 	if (out != nullptr)
