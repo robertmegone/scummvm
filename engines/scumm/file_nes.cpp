@@ -1349,6 +1349,10 @@ bool ScummNESFile::generateIndex() {
 				lfl_index.costume_lfl[78] = lfl->num;
 				lfl_index.costume_addr[78] = TO_LE_16(respos);
 				break;
+            case NES_TITLES:
+                    lfl_index.costume_lfl[79] = lfl->num;
+                    lfl_index.costume_addr[79] = TO_LE_16(respos);
+                    break;
 			default:
 				error("Unindexed entry found");
 				break;
