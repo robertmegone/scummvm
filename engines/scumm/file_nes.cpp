@@ -1175,7 +1175,7 @@ static const ScummNESFile::LFLEntry lfl_52[] = { {&res_rooms, 52}, {nullptr, 0} 
 // remaining 'standard' resources (not used by any of the original LFL files)
 static const ScummNESFile::LFLEntry lfl_53[] = { {&res_rooms, 53}, {&res_scripts, 177}, {&res_scripts, 178}, {&res_sounds, 70}, {&res_sounds, 71}, {&res_sounds, 72}, {&res_sounds, 73}, {&res_sounds, 74}, {&res_sounds, 75}, {&res_sounds, 76}, {&res_sounds, 77}, {&res_sounds, 78}, {&res_sounds, 79}, {&res_sounds, 80}, {&res_sounds, 81}, {nullptr, 0} };
 // all 'non-standard' resources (the costume-related stuff)
-static const ScummNESFile::LFLEntry lfl_54[] = { {&res_rooms, 54}, {&res_sprdesc, 0}, {&res_sprdesc, 1}, {&res_sprlens, 0}, {&res_sprlens, 1}, {&res_sproffs, 0}, {&res_sproffs, 1}, {&res_sprdata, 0}, {&res_sprdata, 1}, {&res_costumegfx, 0}, {&res_costumegfx, 1}, {&res_sprpals, 0}, {&res_sprpals, 1}, {&res_charset, 0}, {&res_preplist, 0}, {nullptr, 0} };
+static const ScummNESFile::LFLEntry lfl_54[] = { {&res_rooms, 54}, {&res_sprdesc, 0}, {&res_sprdesc, 1}, {&res_sprlens, 0}, {&res_sprlens, 1}, {&res_sproffs, 0}, {&res_sproffs, 1}, {&res_sprdata, 0}, {&res_sprdata, 1}, {&res_costumegfx, 0}, {&res_costumegfx, 1}, {&res_sprpals, 0}, {&res_sprpals, 1}, {&res_charset, 0}, {&res_preplist, 0}, {&res_titles, 0}, {nullptr, 0} };
 
 struct ScummNESFile::LFL {
 	int num;
