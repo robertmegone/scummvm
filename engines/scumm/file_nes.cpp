@@ -918,13 +918,13 @@ const ScummNESFile::ResourceGroup res_preplist = {
 	}
 };
 
-static const ScummNESFile::Resource res_titles_usa[2] = { {0x02701, 0x325B}, {0x0324D, 0x2494} };
-static const ScummNESFile::Resource res_titles_eur[2] = { {0x02701, 0x325B}, {0x0320F, 0x2494} };
-static const ScummNESFile::Resource res_titles_swe[2] = { {0x02701, 0x325B}, {0x0320F, 0x2494} };
-static const ScummNESFile::Resource res_titles_fra[2] = { {0x02701, 0x325B}, {0x0320F, 0x2494} };
-static const ScummNESFile::Resource res_titles_ger[2] = { {0x02701, 0x325B}, {0x0320F, 0x2494} };
-static const ScummNESFile::Resource res_titles_esp[2] = { {0x02701, 0x325B}, {0x0320F, 0x2494} };
-static const ScummNESFile::Resource res_titles_ita[2] = { {0x02701, 0x325B}, {0x0320F, 0x2494} };
+static const ScummNESFile::Resource res_titles_usa[2] = { {0x02701, 0x0B4C}, {0x0324D, 0x324D} };
+static const ScummNESFile::Resource res_titles_eur[2] = { {0x02701, 0x0B4C}, {0x0320F, 0x324D} };
+static const ScummNESFile::Resource res_titles_swe[2] = { {0x02701, 0x0B4C}, {0x0320F, 0x324D} };
+static const ScummNESFile::Resource res_titles_fra[2] = { {0x02701, 0x0B4C}, {0x0320F, 0x324D} };
+static const ScummNESFile::Resource res_titles_ger[2] = { {0x02701, 0x0B4C}, {0x0320F, 0x324D} };
+static const ScummNESFile::Resource res_titles_esp[2] = { {0x02701, 0x0B4C}, {0x0320F, 0x324D} };
+static const ScummNESFile::Resource res_titles_ita[2] = { {0x02701, 0x0B4C}, {0x0320F, 0x324D} };
 
 const ScummNESFile::ResourceGroup res_titles = {
     ScummNESFile::NES_TITLES,
