@@ -1080,6 +1080,7 @@ uint16 ScummNESFile::extractResource(Common::WriteStream *output, const Resource
 	case NES_SPROFFS:
 	case NES_SPRDATA:
 	case NES_CHARSET:
+    case NES_TITLES:
 		len = res->length;
 		reslen += write_word(output, (uint16)(len + 2));
 
