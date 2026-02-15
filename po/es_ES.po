@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ScummVM 1.4.0svn\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2026-02-15 13:41+0000\n"
-"PO-Revision-Date: 2026-02-09 09:55+0000\n"
+"PO-Revision-Date: 2026-02-15 23:05+0000\n"
 "Last-Translator: IlDucci <pajaroloco_2@hotmail.com>\n"
 "Language-Team: Spanish <https://translations.scummvm.org/projects/scummvm/"
 "scummvm/es/>\n"
@@ -2830,25 +2830,19 @@ msgstr "*  Abc"
 
 #: gui/printing-dialog.cpp:57
 msgid "Print"
-msgstr ""
+msgstr "Imprimir"
 
 #: gui/printing-dialog.cpp:58
-#, fuzzy
-#| msgid "Save Image"
 msgid "Save as image"
-msgstr "Guardar imagen"
+msgstr "Guardar como imagen"
 
 #: gui/printing-dialog.cpp:60
-#, fuzzy
-#| msgid "Pointer Speed:"
 msgid "Printer:"
-msgstr "Vel. del puntero:"
+msgstr "Impresora:"
 
 #: gui/printing-dialog.cpp:83
-#, fuzzy
-#| msgid "Open action"
 msgid "Orientation:"
-msgstr "Acción de abrir"
+msgstr "Orientación:"
 
 #: gui/recorderdialog.cpp:67
 msgid "Recorder or Playback Gameplay"
