@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ScummVM 1.8.0git\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2026-02-17 18:53+0000\n"
-"PO-Revision-Date: 2026-02-16 08:44+0000\n"
+"PO-Revision-Date: 2026-02-19 19:22+0000\n"
 "Last-Translator: Purple T <ZEONK@hotmail.com>\n"
 "Language-Team: French <https://translations.scummvm.org/projects/scummvm/"
 "scummvm/fr/>\n"
@@ -6938,14 +6938,12 @@ msgid "Don't fade every screen to black when leaving a room."
 msgstr "Les fondus au noir sont désactivés en quittant une pièce."
 
 #: engines/agos/dialogs.cpp:93
-#, fuzzy
-#| msgid "Use original save/load screens"
 msgid "Use original Acorn system cursor"
-msgstr "Écrans sauvegarder/charger d'origine"
+msgstr "Curseur système Acorn d'origine"
 
 #: engines/agos/dialogs.cpp:94
 msgid "Toggle between the system cursor and the default cursor."
-msgstr ""
+msgstr "Permute entre le curseur système et le curseur par défaut."
 
 #: engines/agos/dialogs.cpp:107 engines/sci/detection_options.h:263
 msgid "MIDI mode:"
