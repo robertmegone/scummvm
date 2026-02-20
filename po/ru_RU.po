@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: ScummVM 1.8.0svn\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2026-02-20 21:12+0000\n"
-"PO-Revision-Date: 2026-02-20 21:12+0000\n"
+"PO-Revision-Date: 2026-02-20 22:05+0000\n"
 "Last-Translator: Eugene Sandulenko <sev@scummvm.org>\n"
 "Language-Team: Russian <https://translations.scummvm.org/projects/scummvm/"
 "scummvm/ru/>\n"
@@ -7968,56 +7968,38 @@ msgstr "Подтверждение выхода из игры"
 #. I18N: Here ALTered Item refers to the dice that has been altered/changed.
 #. In order to escape the dice game loop press Right/Left Alt
 #: engines/cge/metaengine.cpp:250
-#, fuzzy
-#| msgid "ALTered Item"
 msgid "ALTered item"
 msgstr "АЛЬТернативный предмет"
 
 #: engines/cge/metaengine.cpp:257
-#, fuzzy
-#| msgid "Inventory Item 1 (Select / Deselect)"
 msgid "Inventory item 1 (Select / Deselect)"
 msgstr "Предмет инвентаря 1 (выбрать/отменить выбор)"
 
 #: engines/cge/metaengine.cpp:262
-#, fuzzy
-#| msgid "Inventory Item 2 (Select / Deselect)"
 msgid "Inventory item 2 (Select / Deselect)"
 msgstr "Предмет инвентаря 2 (выбрать/отменить выбор)"
 
 #: engines/cge/metaengine.cpp:267
-#, fuzzy
-#| msgid "Inventory Item 3 (Select / Deselect)"
 msgid "Inventory item 3 (Select / Deselect)"
 msgstr "Предмет инвентаря 3 (выбрать/отменить выбор)"
 
 #: engines/cge/metaengine.cpp:272
-#, fuzzy
-#| msgid "Inventory Item 4 (Select / Deselect)"
 msgid "Inventory item 4 (Select / Deselect)"
 msgstr "Предмет инвентаря 4 (выбрать/отменить выбор)"
 
 #: engines/cge/metaengine.cpp:277
-#, fuzzy
-#| msgid "Inventory Item 5 (Select / Deselect)"
 msgid "Inventory item 5 (Select / Deselect)"
 msgstr "Предмет инвентаря 5 (выбрать/отменить выбор)"
 
 #: engines/cge/metaengine.cpp:282
-#, fuzzy
-#| msgid "Inventory Item 6 (Select / Deselect)"
 msgid "Inventory item 6 (Select / Deselect)"
 msgstr "Предмет инвентаря 6 (выбрать/отменить выбор)"
 
 #: engines/cge/metaengine.cpp:287
-#, fuzzy
-#| msgid "Inventory Item 7 (Select / Deselect)"
 msgid "Inventory item 7 (Select / Deselect)"
 msgstr "Предмет инвентаря 7 (выбрать/отменить выбор)"
 
 #: engines/cge/metaengine.cpp:292
-#, fuzzy
-#| msgid "Inventory Item 8 (Select / Deselect)"
 msgid "Inventory item 8 (Select / Deselect)"
 msgstr "Предмет инвентаря 8 (выбрать/отменить выбор)"
 
@@ -8722,42 +8704,30 @@ msgstr "Раскладка клавиш меню смерти"
 
 #. I18N: (Game name: Escape from hell) Character is a hero in-game
 #: engines/efh/metaengine.cpp:339
-#, fuzzy
-#| msgid "Show character portraits"
 msgid "Character 1 status"
-msgstr "Показывать портреты героев"
+msgstr "Статус героя 1"
 
 #. I18N: (Game name: Escape from hell) Character is a hero in-game
 #: engines/efh/metaengine.cpp:347
-#, fuzzy
-#| msgid "Show character portraits"
 msgid "Character 2 status"
-msgstr "Показывать портреты героев"
+msgstr "Статус героя 2"
 
 #. I18N: (Game name: Escape from hell) Character is a hero in-game
 #: engines/efh/metaengine.cpp:355
-#, fuzzy
-#| msgid "Show character portraits"
 msgid "Character 3 status"
-msgstr "Показывать портреты героев"
+msgstr "Статус героя 3"
 
 #: engines/efh/metaengine.cpp:385
-#, fuzzy
-#| msgid "Skip cutscene"
 msgid "Skip song"
-msgstr "Пропустить заставку"
+msgstr "Пропустить песню"
 
 #: engines/efh/metaengine.cpp:391
-#, fuzzy
-#| msgid "Skip intro"
 msgid "Skip song and intro"
-msgstr "Пропустить вступление"
+msgstr "Пропустить песню и вступление"
 
 #: engines/efh/metaengine.cpp:427
-#, fuzzy
-#| msgid "Active"
 msgid "Active skills"
-msgstr "Активно"
+msgstr "Активные умения"
 
 #. I18N: It's a Tetris game clone, this action drops current tetris item
 #: engines/efh/metaengine.cpp:432 engines/ultima/nuvie/metaengine.cpp:72
@@ -8780,10 +8750,8 @@ msgstr "Дать"
 
 #: engines/efh/metaengine.cpp:447 engines/ultima/ultima0/metaengine.cpp:70
 #: engines/ultima/ultima0/metaengine.cpp:84
-#, fuzzy
-#| msgid "Info Menu"
 msgid "Info"
-msgstr "Инфо-меню"
+msgstr "Инфо"
 
 #: engines/efh/metaengine.cpp:452
 msgid "Passive skills"
@@ -8794,16 +8762,12 @@ msgid "Trade"
 msgstr ""
 
 #: engines/efh/metaengine.cpp:467
-#, fuzzy
-#| msgid "Quit to menu"
 msgid "Exit status menu"
-msgstr "Выйти в меню"
+msgstr "Выйти из меню состояния"
 
 #: engines/efh/metaengine.cpp:481
-#, fuzzy
-#| msgid "Exit game"
 msgid "Exit submenu"
-msgstr "Выйти из игры"
+msgstr "Выйти из подменю"
 
 #: engines/efh/metaengine.cpp:493
 msgid "Leave"
@@ -8828,73 +8792,51 @@ msgstr "Бежать"
 
 #. I18N: (Game name: Escape from hell) This action is used to view the terrain during a fight so that the player can see where they can move if they decide to run.
 #: engines/efh/metaengine.cpp:543
-#, fuzzy
-#| msgid "Exit conversation"
 msgid "View terrain"
-msgstr "Выйти из диалога"
+msgstr "Просмотреть ландшафт"
 
 #. I18N: (Game name: Escape from hell) Character is a hero in-game
 #: engines/efh/metaengine.cpp:550
-#, fuzzy
-#| msgid "Select Actor 1"
 msgid "Select character 1"
 msgstr "Выбрать актера 1"
 
 #. I18N: (Game name: Escape from hell) Character is a hero in-game
 #: engines/efh/metaengine.cpp:557
-#, fuzzy
-#| msgid "Select Actor 2"
 msgid "Select character 2"
 msgstr "Выбрать актера 2"
 
 #. I18N: (Game name: Escape from hell) Character is a hero in-game
 #: engines/efh/metaengine.cpp:564
-#, fuzzy
-#| msgid "Select Actor 3"
 msgid "Select character 3"
 msgstr "Выбрать актера 3"
 
 #: engines/efh/metaengine.cpp:570
-#, fuzzy
-#| msgid "Change game options"
 msgid "Cancel character selection"
-msgstr "Изменить настройки игры"
+msgstr "Прервать выбор актера"
 
 #: engines/efh/metaengine.cpp:577
-#, fuzzy
-#| msgid "Select index"
 msgid "Select enemy 1"
-msgstr "Выбрать индекс"
+msgstr "Выбрать врага 1"
 
 #: engines/efh/metaengine.cpp:583
-#, fuzzy
-#| msgid "Select index"
 msgid "Select enemy 2"
-msgstr "Выбрать индекс"
+msgstr "Выбрать врага 2"
 
 #: engines/efh/metaengine.cpp:589
-#, fuzzy
-#| msgid "Select index"
 msgid "Select enemy 3"
-msgstr "Выбрать индекс"
+msgstr "Выбрать врага 3"
 
 #: engines/efh/metaengine.cpp:595
-#, fuzzy
-#| msgid "Select index"
 msgid "Select enemy 4"
-msgstr "Выбрать индекс"
+msgstr "Выбрать врага 4"
 
 #: engines/efh/metaengine.cpp:601
-#, fuzzy
-#| msgid "Select index"
 msgid "Select enemy 5"
-msgstr "Выбрать индекс"
+msgstr "Выбрать врага 5"
 
 #: engines/efh/metaengine.cpp:607
-#, fuzzy
-#| msgid "Change game options"
 msgid "Cancel enemy selection"
-msgstr "Изменить настройки игры"
+msgstr "Прервать выбор врага"
 
 #: engines/efh/metaengine.cpp:625 engines/lure/metaengine.cpp:203
 #: engines/tsage/metaengine.cpp:237
@@ -8902,44 +8844,32 @@ msgid "Restart game"
 msgstr "Перезапустить игру"
 
 #: engines/efh/metaengine.cpp:632
-#, fuzzy
-#| msgid "Play note 1: A"
 msgid "Play sound type 13"
-msgstr "Нота 1: Ля"
+msgstr "Проиграть звук тип 13"
 
 #: engines/efh/metaengine.cpp:637
-#, fuzzy
-#| msgid "Play note 1: A"
 msgid "Play sound type 14"
-msgstr "Нота 1: Ля"
+msgstr "Проиграть звук тип 14"
 
 #: engines/efh/metaengine.cpp:642
-#, fuzzy
-#| msgid "Play note 1: A"
 msgid "Play sound type 15"
-msgstr "Нота 1: Ля"
+msgstr "Проиграть звук тип 15"
 
 #: engines/efh/metaengine.cpp:647
-#, fuzzy
-#| msgid "Play note 5: E"
 msgid "Play sound type 5"
-msgstr "Нота 5: Ми-диез"
+msgstr "Проиграть звук тип 5"
 
 #: engines/efh/metaengine.cpp:652
-#, fuzzy
-#| msgid "Play note 1: A"
 msgid "Play sound type 10"
-msgstr "Нота 1: Ля"
+msgstr "Проиграть звук тип 10"
 
 #: engines/efh/metaengine.cpp:657
 msgid "Play sound type 9"
 msgstr ""
 
 #: engines/efh/metaengine.cpp:662
-#, fuzzy
-#| msgid "Play note 1: A"
 msgid "Play sound type 16"
-msgstr "Нота 1: Ля"
+msgstr "Проиграть звук тип 16"
 
 #: engines/freescape/metaengine.cpp:42
 msgid "Prerecorded sounds"
@@ -9045,8 +8975,6 @@ msgid "Change mode"
 msgstr "Изменить режим"
 
 #: engines/freescape/movement.cpp:106
-#, fuzzy
-#| msgid "Info Menu"
 msgid "Info menu"
 msgstr "Инфо-меню"
 
