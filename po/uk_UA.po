@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ScummVM 1.9.0git\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2026-02-20 21:12+0000\n"
-"PO-Revision-Date: 2026-02-20 21:12+0000\n"
+"PO-Revision-Date: 2026-02-20 22:05+0000\n"
 "Last-Translator: Eugene Sandulenko <sev@scummvm.org>\n"
 "Language-Team: Ukrainian <https://translations.scummvm.org/projects/scummvm/"
 "scummvm/uk/>\n"
@@ -7960,56 +7960,38 @@ msgstr "Запит виходу з гри"
 #. I18N: Here ALTered Item refers to the dice that has been altered/changed.
 #. In order to escape the dice game loop press Right/Left Alt
 #: engines/cge/metaengine.cpp:250
-#, fuzzy
-#| msgid "ALTered Item"
 msgid "ALTered item"
 msgstr "АЛЬТернативний елемент"
 
 #: engines/cge/metaengine.cpp:257
-#, fuzzy
-#| msgid "Inventory Item 1 (Select / Deselect)"
 msgid "Inventory item 1 (Select / Deselect)"
 msgstr "Інвентар 1 (Вибрати / Скасувати вибір)"
 
 #: engines/cge/metaengine.cpp:262
-#, fuzzy
-#| msgid "Inventory Item 2 (Select / Deselect)"
 msgid "Inventory item 2 (Select / Deselect)"
 msgstr "Інвентар 2 (Вибрати / Скасувати вибір)"
 
 #: engines/cge/metaengine.cpp:267
-#, fuzzy
-#| msgid "Inventory Item 3 (Select / Deselect)"
 msgid "Inventory item 3 (Select / Deselect)"
 msgstr "Інвентар 3 (Вибрати / Скасувати вибір)"
 
 #: engines/cge/metaengine.cpp:272
-#, fuzzy
-#| msgid "Inventory Item 4 (Select / Deselect)"
 msgid "Inventory item 4 (Select / Deselect)"
 msgstr "Інвентар 4 (Вибрати / Скасувати вибір)"
 
 #: engines/cge/metaengine.cpp:277
-#, fuzzy
-#| msgid "Inventory Item 5 (Select / Deselect)"
 msgid "Inventory item 5 (Select / Deselect)"
 msgstr "Інвентар 5 (Вибрати / Скасувати вибір)"
 
 #: engines/cge/metaengine.cpp:282
-#, fuzzy
-#| msgid "Inventory Item 6 (Select / Deselect)"
 msgid "Inventory item 6 (Select / Deselect)"
 msgstr "Інвентар 6 (Вибрати / Скасувати вибір)"
 
 #: engines/cge/metaengine.cpp:287
-#, fuzzy
-#| msgid "Inventory Item 7 (Select / Deselect)"
 msgid "Inventory item 7 (Select / Deselect)"
 msgstr "Інвентар 7 (Вибрати / Скасувати вибір)"
 
 #: engines/cge/metaengine.cpp:292
-#, fuzzy
-#| msgid "Inventory Item 8 (Select / Deselect)"
 msgid "Inventory item 8 (Select / Deselect)"
 msgstr "Інвентар 8 (Вибрати / Скасувати вибір)"
 
@@ -13487,10 +13469,8 @@ msgid "Menu scrolling keymappings"
 msgstr "Мапа клавіш прокрутки меню"
 
 #: engines/sherlock/metaengine.cpp:784
-#, fuzzy
-#| msgid "save / load menu keymappings"
 msgid "Save / load menu keymappings"
-msgstr "Мапв клавіш меню збережкння / завантаження"
+msgstr "Мапа клавіш меню збереження / завантаження"
 
 #: engines/sherlock/metaengine.cpp:785
 msgid "Save files name editing keymappings"
