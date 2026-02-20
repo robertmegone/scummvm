@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ScummVM 1.4.0svn\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2026-02-19 22:44+0000\n"
-"PO-Revision-Date: 2026-02-17 23:31+0000\n"
+"PO-Revision-Date: 2026-02-20 12:15+0000\n"
 "Last-Translator: IlDucci <pajaroloco_2@hotmail.com>\n"
 "Language-Team: Spanish <https://translations.scummvm.org/projects/scummvm/"
 "scummvm/es/>\n"
@@ -13134,16 +13134,17 @@ msgstr ""
 "Mansion."
 
 #: engines/scumm/metaengine.cpp:839
-#, fuzzy
-#| msgid "Playback"
 msgid "Disable Playback"
-msgstr "Reproducción"
+msgstr "Desactivar reproducción"
 
 #: engines/scumm/metaengine.cpp:840
 msgid ""
 "Disable the scripted part of the demo (dangerous!). This makes it "
 "interactive, but as this was never intended, expect frequent crashes!"
 msgstr ""
+"Desactiva la parte preprogramada de la demo (¡es peligroso!). La convertirá "
+"en interactiva, pero al no estar pensada para serlo, ¡habrá cuelgues a "
+"menudo!"
 
 #: engines/scumm/metaengine.cpp:848
 msgid "Use remastered audio"
