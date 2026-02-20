@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: ScummVM 1.9.0git\n"
 "Report-Msgid-Bugs-To: scummvm-devel@lists.scummvm.org\n"
 "POT-Creation-Date: 2026-02-19 22:44+0000\n"
-"PO-Revision-Date: 2026-02-18 22:40+0000\n"
+"PO-Revision-Date: 2026-02-20 21:12+0000\n"
 "Last-Translator: Eugene Sandulenko <sev@scummvm.org>\n"
 "Language-Team: Ukrainian <https://translations.scummvm.org/projects/scummvm/"
 "scummvm/uk/>\n"
@@ -12959,16 +12959,16 @@ msgid "Enable demo/kiosk mode in the full retail version of Maniac Mansion."
 msgstr "Ввімкнути режим демо/кіоска для повної версії Maniac Mansion."
 
 #: engines/scumm/metaengine.cpp:839
-#, fuzzy
-#| msgid "Playback"
 msgid "Disable Playback"
-msgstr "Відтворити"
+msgstr "Вимкнути програвання"
 
 #: engines/scumm/metaengine.cpp:840
 msgid ""
 "Disable the scripted part of the demo (dangerous!). This makes it "
 "interactive, but as this was never intended, expect frequent crashes!"
 msgstr ""
+"Вимікає скриптову частину демо-гри (небезпечно!). Це зробить її "
+"інтерактивною, але оскільки це ніколи не передбачалося, будуть часті збої!"
 
 #: engines/scumm/metaengine.cpp:848
 msgid "Use remastered audio"
